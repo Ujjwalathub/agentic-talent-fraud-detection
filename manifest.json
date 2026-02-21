@@ -1,0 +1,9 @@
+{
+  "team_name": "Apex Flow",
+  "team_id": "Apex Flow",
+  "institution": "Lamrin Tech Skills University",
+  "members": [
+    {"name": "Ujjwal Singh", "email": "thesinghujjwal@gmail.com", "role": "Leader"}
+  ],
+  "entry_point": "agent.py"
+}
